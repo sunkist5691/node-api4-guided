@@ -18,4 +18,4 @@ Please fork this repository and follow along **using your fork** as the instruct
 - create deploy on Heroku
 - connect github repo
 - pick which branch you want to deploy
-- enable automatic deployment
+- enable automatic deployment`
